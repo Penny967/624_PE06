@@ -1,6 +1,5 @@
 import { Component } from 'react';
 import { View, Text, StyleSheet, TouchableWithoutFeedback, ScrollView } from 'react-native';
-
 import CenterMessage from '../components/center-message';
 import { colors } from '../theme';
 
